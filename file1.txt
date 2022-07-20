@@ -2,3 +2,4 @@
 This is file1.txt on master branch
 This is file1.txt in feature branch
 >>>>>>> feature
+Change in Github
